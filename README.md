@@ -78,6 +78,3 @@ La simulazione è in grado di calcolare dinamicamente:
 - Overhead della comunicazione: **Tempo di Calcolo vs Tempo di Halo Exchange**.
 
 Tutti i risultati numerici vengono salvati in un log centralizzato (`metriche.csv`) pronto per essere analizzato dai tool Python inclusi nel repository.
-
----
-*Progetto realizzato per l'insegnamento di Principi della Programmazione Parallela anno accademico 2025/2026 dalla studentessa Gabriela Riscica, 1000015346.*
